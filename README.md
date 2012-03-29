@@ -14,9 +14,9 @@ $("document").scrolltotop();
 
 You can customize the display of the link with the following options:
 
-* scrolltopmax - How far from the top of the page to display the link. Default is 1000.
-* hpos - Position on the 'right' or 'left' side of the page. Default is right.
-* vpos - Position on the 'top' or 'bottom' of the page. Default is bottom.
+* scrolltopmax - How far from the top of the page to display the link. Default is '1000'.
+* hpos - Position on the 'right' or 'left' side of the page. Default is 'right'.
+* vpos - Position on the 'top' or 'bottom' of the page. Default is 'bottom'.
 * left - How far from the left side of the page in pixels. Default is '5px'.
 * right - How far from the right side of the page in pixels. Default is '5px'.
 * top - How far from the top of the page in pixels. Default is 20px.
